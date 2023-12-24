@@ -76,9 +76,6 @@ body{
     font-family: 'Dosis', sans-serif;
     padding-top: 0;
     font-size: 28px;
-
-    overflow: scroll;
-
     padding-left: 80px;
 
 }
@@ -278,6 +275,10 @@ body{
 }
 
 @media screen  and (max-width:1150px){
+
+    .info{
+        overflow: scroll;
+    }
 
 
     .nave a{
