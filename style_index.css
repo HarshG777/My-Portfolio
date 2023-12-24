@@ -77,6 +77,8 @@ body{
     padding-top: 0;
     font-size: 28px;
 
+    overflow: scroll;
+
     padding-left: 80px;
 
 }
@@ -276,6 +278,21 @@ body{
 }
 
 @media screen  and (max-width:1150px){
+
+
+    .nave a{
+        margin: 10px 10px;
+        font-size: 15px;
+    }
+
+    .nave button{
+        margin: 10px 10px;
+        font-size: 15px;
+    }
+
+
+
+
     .timeline{
         width: 80vw;
     }
