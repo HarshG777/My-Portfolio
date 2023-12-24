@@ -12,7 +12,7 @@ function scrollDown(){
 function dev(i){
 
     if (i === 1){
-        window.open("https://github.com/HarshG777/HarshG777");
+        window.open("https://github.com/HarshG777/My-Portfolio");
     }
     else if(i === 2){
         console.log("it is two");
